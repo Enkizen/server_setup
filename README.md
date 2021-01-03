@@ -6,14 +6,10 @@ Load Balancer
 Firewall
 
 Web server
-IIS
 Nginx
 Apache
-Tomecat
-Caddy
-Istio
-Envoy
-Linkerd
+Tomcat
+
 
 Email SMTP, IMAPS, POP3S
 DMARC
