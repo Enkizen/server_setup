@@ -5,6 +5,7 @@ Forward Proxy
 Load Balancer
 Firewall
 
+Web server
 IIS
 Nginx
 Apache
